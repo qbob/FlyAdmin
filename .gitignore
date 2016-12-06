@@ -1,0 +1,6 @@
+/var/*
+!/var/fonts
+*.debug.php
+_*
+*.idea
+.DS_Store
